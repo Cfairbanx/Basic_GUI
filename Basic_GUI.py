@@ -3,7 +3,7 @@
 #
 #Author                 Casey Fairbanks
 #
-#Purpose                Create a GUI that allows a user to enter texxt and have
+#Purpose                Create a GUI that allows a user to enter text and have
 #                       this text displayed in the browser.
 #
 #
